@@ -21,7 +21,7 @@ class AnnouncementApi {
       'https://jsonplaceholder.typicode.com';
 
   static const Duration batasWaktu =
-      Duration(seconds: 10);
+      Duration(seconds: 1);
 
   static const List<String> daftarKategori = <String>[
     'Akademik',

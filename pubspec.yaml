@@ -16,6 +16,8 @@ dependencies:
   flutter_riverpod: ^2.5.1
   dio: ^5.7.0
   http: ^1.6.0
+  shared_preferences: ^2.3.4
+  flutter_secure_storage: ^11.2.0
 
 dev_dependencies:
   flutter_test:
@@ -27,3 +29,4 @@ flutter:
   assets:
     - lib/pages/nasigoreng.jpg
     - lib/pages/nasigoreng.png
+    - lib/assets/images/mahasiswa.jpg
